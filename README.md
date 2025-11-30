@@ -1,10 +1,7 @@
-
 Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
-
----
 
 ## Overview
 
@@ -22,8 +19,6 @@ The first simulation file (`Introduction_OptiPerformer.osp`) models a basic fibe
 The system includes:
 - An optical power meter at the receiver input (fiber output)
 - A Bit Error Rate (BER) analyzer
-
----
 
 ## Instructions
 
@@ -55,16 +50,12 @@ The system includes:
    - Use forward/reverse buttons to step through iterations.  
    - Observe changes in received power, BER, Q factor, and eye diagram.
 
----
-
 ## Report
 
 1. Cover sheet (as per attached example).  
 2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
 3. Plot of received power, Q factor, and BER vs. fiber length.  
 4. Description of eye diagram changes with increasing fiber length.
-
----
 
 ## Tabulation
 
@@ -79,16 +70,11 @@ The system includes:
 | 4. |	    59	      |      32.520	        |        14.878	     |    82.2262	 |    0	 |  6.38208 e^-05	|        0.546875/0                 |
 | 5. |	    60	      |      31.056	        |        15.079	     |    88.7921	 |    0	 |  6.11032 e^-05	|        0.546875/0                 |
 
-
----
-
 ## Graphs
 
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/21b69007-70c2-47f1-a1be-8c7173f9aabc" />
 
 <img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/5ceff8f3-d789-4716-b809-5e7bc0c4c23e" />
-
----
 
 ## RESULT
 
